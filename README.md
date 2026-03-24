@@ -28,7 +28,7 @@ Two models are compared:
 | AOT-GAN (Ours) | 21.71 ± 3.76 | 0.7854 ± 0.0942 | 0.1457 ± 0.0671 |
 
 ## 🖼️ Sample Results
-![Inpainting Results](inpainting_results.png)
+![Inpainting Results](inpainting_results.jpeg)
 
 ## 🛠️ Tech Stack
 - Python 3.12
@@ -56,6 +56,9 @@ tqdm
 3. Add pretrained AOT-GAN weights as input
 4. Run all cells
 
+## 🔗 Links
+- [Kaggle Notebook](https://www.kaggle.com/code/sarikajs/aot-gan-image-inpainting)
+  
 ## 📚 Reference
 Zeng et al. "Aggregated Contextual Transformations for 
 High-Resolution Image Inpainting." arXiv:2104.01431 (2021)
